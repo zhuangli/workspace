@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+	<url>http://cecs-test.haituncun.com:8090/</url>
+    <login>
+    	<username>1056204135@qq.com</username>
+    	<password>147258</password>
+    </login>
+    <cart>
+        <spu>011174</spu>
+        <spu></spu>
+        <spu></spu>
+        <spu></spu>
+    </cart>
+</catalog>
