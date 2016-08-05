@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+	<url>
+	 <id>	 </id>
+	</url>
+    <login>
+    	<username>3473518012@qq.com</username>
+    	<password>123456</password>
+    </login>
+    <search>
+        <spu></spu>
+        <spu></spu>
+        <spu></spu>
+        <spu></spu>
+    </search>
+    <addrress>
+    	<name></name>
+    	<country></country>
+    	<region></region>
+    	<city></city>
+    	<s_county></s_county>
+    	<street></street>
+    	<postcode></postcode>
+    	<telephone></telephone>
+    	<email></email>
+    </addrress>
+    <id>
+     <num></num>
+    </id>
+</catalog>
