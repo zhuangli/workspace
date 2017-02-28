@@ -1,0 +1,44 @@
+1481789877181	Marionette	INFO	Listening on port 52709
+[Child 13788] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481789881167	Marionette	INFO	Listening on port 52735
+[Child 13424] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481789885134	Marionette	INFO	Listening on port 52756
+[Child 12088] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481789889067	Marionette	INFO	Listening on port 52777
+[Child 10768] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481789893074	Marionette	INFO	Listening on port 52803
+[Child 6052] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481789897146	Marionette	INFO	Listening on port 52824
+[Child 14240] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481789901203	Marionette	INFO	Listening on port 52847
+[Child 13832] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481789905260	Marionette	INFO	Listening on port 52871
+[Child 10912] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481789909255	Marionette	INFO	Listening on port 52893
+[Child 13864] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481789913309	Marionette	INFO	Listening on port 52917
+[Child 13276] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481789917333	Marionette	INFO	Listening on port 52939
+1481789985015	Marionette	INFO	Listening on port 52994
+[Child 11124] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481789989011	Marionette	INFO	Listening on port 53018
+[Child 13416] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481789993017	Marionette	INFO	Listening on port 53039
+[Child 11816] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+ERROR:geckodriver::marionette: Failed to kill browser process
+1481954262986	Marionette	INFO	Listening on port 50400
+[Child 6388] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481954267013	Marionette	INFO	Listening on port 50425
+[Child 8360] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481954372835	Marionette	INFO	Listening on port 50491
+[Child 13236] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481954376871	Marionette	INFO	Listening on port 50515
+[Child 8100] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481954380916	Marionette	INFO	Listening on port 50534
+[Child 11052] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481954429805	Marionette	INFO	Listening on port 50573
+[Child 11316] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481954464068	Marionette	INFO	Listening on port 50775
+JavaScript error: chrome://marionette/content/listener.js, line 870: TypeError: can't access dead object
+[Child 13232] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1481954468955	Marionette	INFO	Listening on port 50827

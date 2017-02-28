@@ -1,0 +1,12 @@
+num,title,name,condition,coupon,product_num,name,ID
+1,test_po_login,测试正确的用户名和密码登录,,,,,
+2,test_unlogin_returnCart,未登录购物车界面，点击登录，跳转到购物车界面,Swisse 澳洲蔓越莓精华片 女性必备 30片,,,,
+3,test_po_search_brand,按商品的品牌搜索,Swisse,,,,
+4,test_po_search_enterKey,测试按Enter键模糊sku执行搜索,1,,,,
+5,test_po_search_name,测试按商品名称执行搜索,Swisse 澳洲蔓越莓精华片 女性必备 30片,,,,
+6,test_Use_SpecifyCoupon,使用有码的优惠券查看减免是否对,1,discount,2,,
+7,test_cart_add_delete,添加单个商品进入购物车，校验价格和名称，并删除这个商品,Swisse 澳洲蔓越莓精华片 女性必备 30片,,4,,
+8,test_cart_deleteAll,加入多个商品进入购物车，全选删除商品,Swisse,,5,,
+9,test_cart_changQTP,加入多个商品进入购物车，修改商品数量,爱他美,,2,,
+10,test_add_address_ID,添加地址，并进行身份验证,,,,,
+11,test_Discount_Coupon,"使用有码的优惠券查看减免是否对,7折，运费5折",,,,,
